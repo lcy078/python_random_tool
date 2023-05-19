@@ -1,0 +1,2 @@
+# python_random_tool
+一个简单的python随机抽取工具
